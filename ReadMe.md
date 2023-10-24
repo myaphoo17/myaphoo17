@@ -10,5 +10,5 @@
        
        How to reach me :   myaphoothwe92@gmail.com
        
-      Tech Stack: HTML, CSS, Js, Vue, Spring, MySQL,RESTful APIs
+      Tech Stack: HTML, CSS, Js, Vue, React, Spring, MySQL,RESTful APIs
 
