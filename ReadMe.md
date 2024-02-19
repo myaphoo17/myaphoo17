@@ -1,14 +1,22 @@
-<p align="center"> 
-<h2>  🙋🏻‍♀️ Hi! I am Mya Phoo Thwe
 <h4>✨  constantly fueling my curiosity, embracing endless exploration✨
+<p align="center"> 
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owdjV4OHJtOHh1MTl0MG9jemhpYTE2MXM5Z3l3MTQ1cjkweXBubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PYXSPzKn5tZUsXmrcQ/giphy.gif" width="300">
+</div>
+
 
  </p>
-
-	   I’m currently learning React & Spring Framework
-
-       Ask me about Java, Data Structures, and Algorithms
+      
+      I am currently learning DSA & IBM Full Stack Developer course
        
-       How to reach me :   myaphoothwe92@gmail.com
+      AI & CS enthusiast
+       
+      Ask me about Java & DSA
+       
+      How to reach me :   myaphoothwe92@gmail.com
        
       Tech Stack: HTML, CSS, Js, Vue, React, Spring, MySQL,RESTful APIs
+
+
+
 
