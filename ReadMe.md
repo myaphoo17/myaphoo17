@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>Currently learning DSA & IBM Full Stack Development</p>
-  <p>AI & CS enthusiast.</p>
+  <p> Psychology, AI & CS enthusiast.</p>
   <p>Ask me about Java & DSA.</p>
   <p>How to reach me: myaphoothwe92@gmail.com.</p>
   <p>Connect with me on 
