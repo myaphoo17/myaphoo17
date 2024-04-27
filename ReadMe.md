@@ -12,6 +12,5 @@
   <p>Connect with me on 
   <a href="https://www.linkedin.com/in/mya-phoo-thwe-2a91ab1ab/">LinkedIn</a>
   </p>
- <p>Tech Stack :  JavaScript, Typescript, Vue, React, Express.js, Node.js, Spring, MySQL, MongoDB</p>
 <p>Languages: Python, Java, JavaScript</p>
 </div>
