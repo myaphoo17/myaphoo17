@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p>Currently learning DSA & IBM Full Stack Development</p>
+  <p>Currently learning DSA & Java Web Development</p>
   <p> Psychology, AI & CS enthusiast.</p>
   <p>Ask me about Java & DSA.</p>
   <p>How to reach me: myaphoothwe92@gmail.com.</p>
